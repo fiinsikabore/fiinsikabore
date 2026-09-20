@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fiinsikabore/fiinsikabore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fiinsi Ninsaal
 
-Here are some ideas to get you started:
+<img src="assets/banner-soul.png" alt="Soul" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><i>software engineering student · storyteller · building quietly</i></p>
+
+</div>
+
+---
+
+<img src="assets/header-about.png" alt="About" width="100%">
+
+first-year software engineering student at African Leadership University (ALU), from Burkina Faso. i build things and write things — sometimes at the same time.
+
+### currently
+- learning full-stack development
+- content creator for ALU's Community & Culture team
+- student ambassador
+- working on photography
+
+---
+
+<img src="assets/header-projects.png" alt="Projects" width="100%">
+
+a few things i've been building — see the pinned repos below.
+
+---
+
+<img src="assets/header-contact.png" alt="Contact" width="100%">
+
+- [LinkedIn](https://www.linkedin.com/in/fiinsi-laïla-hulda-kabore-663902294/)
+- [Instagram](https://www.instagram.com/fiins.i)
+- Wattpad: `Fiin_lae`
