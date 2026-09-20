@@ -1,8 +1,8 @@
 <div align="center">
 
-# Fiinsi Ninsaal
+# Fiinsi
 
-<img src="assets/banner-soul.png" alt="Soul" width="100%">
+<img src="assets/banner%20(1).png" alt="Soul" width="100%">
 
 <p><i>software engineering student · storyteller · building quietly</i></p>
 
@@ -10,7 +10,7 @@
 
 ---
 
-<img src="assets/header-about.png" alt="About" width="100%">
+<img src="assets/header-about.png.png" alt="About" width="100%">
 
 first-year software engineering student at African Leadership University (ALU), from Burkina Faso. i build things and write things — sometimes at the same time.
 
@@ -22,13 +22,13 @@ first-year software engineering student at African Leadership University (ALU), 
 
 ---
 
-<img src="assets/header-projects.png" alt="Projects" width="100%">
+<img src="assets/header-projects.png.png" alt="Projects" width="100%">
 
 a few things i've been building — see the pinned repos below.
 
 ---
 
-<img src="assets/header-contact.png" alt="Contact" width="100%">
+<img src="assets/header-contact.png.png" alt="Contact" width="100%">
 
 - [LinkedIn](https://www.linkedin.com/in/fiinsi-laïla-hulda-kabore-663902294/)
 - [Instagram](https://www.instagram.com/fiins.i)
